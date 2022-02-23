@@ -1,0 +1,206 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To all that desire and breath after the Lord and the true knowledge of his everlasting way and the righteousness and peace of that kingdom which consisteth not in words, but in power, life, and joy in the Holy Ghost ... / written by Joseph Coale.</title>
+            <author>Coale, Joseph, d. 1670.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1667</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 26 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A33497</idno>
+            <idno type="STC">Wing C4750</idno>
+            <idno type="STC">ESTC R26608</idno>
+            <idno type="EEBO-CITATION">09514878</idno>
+            <idno type="OCLC">ocm 09514878</idno>
+            <idno type="VID">43373</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A33497)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 43373)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1327:28)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To all that desire and breath after the Lord and the true knowledge of his everlasting way and the righteousness and peace of that kingdom which consisteth not in words, but in power, life, and joy in the Holy Ghost ... / written by Joseph Coale.</title>
+                  <author>Coale, Joseph, d. 1670.</author>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1667.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Pastoral letters and charges.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-09</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-09</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:43373:1"/>
+            <pb facs="tcp:43373:1"/>
+            <p>To all that Deſire and Breath after THE LORD, AND The true Knowledge of his Everlaſting Way, and the Righteouſneſs and Peace of that Kingdom which conſiſteth not in Words, but in Power, Life and Joy in the Holy Ghoſt;</p>
+            <p>And whoſe ſoules truly hunger after that Bread of Life which cometh down from above, 1 <hi>Cor.</hi> 4.20. which who cometh to eat of (ſaith <hi>John, Chap.</hi> 6.35.) ſhall never hunger more; without which your ſouls cannot be ſatisfied, nor the expectation thereof anſwered. Even to you all, I ſay, the Viſitation and tender Salutation of the Fathers Love through me reacheth, with Informati<g ref="char:EOLhyphen"/>of, and certain Call unto that Way and Truth of the Ever<g ref="char:EOLhyphen"/>laſting God, in which many at this day find the true peace and ſatisfaction to their ſouls, who have long ſought and enquired after him, who now are come to find him.</p>
+            <p>Written by <hi>JOSEPH COALE.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed in the Year, 1667.</p>
+         </div>
+      </front>
+      <body>
+         <div type="tract">
+            <pb facs="tcp:43373:2"/>
+            <pb n="3" facs="tcp:43373:2"/>
+            <head>To all you that Deſire and Breath after the Lord, and the true Knowledge of his Everlaſting Way, and the Righ<g ref="char:EOLhyphen"/>teouſneſs and Peace of that King<g ref="char:EOLhyphen"/>dom which conſiſteth not in Words, but in Power, Life and Joy in the Holy Ghoſt, <hi>&amp;c.</hi>
+            </head>
+            <p>OH Friends, and diſtreſſed ſcattered People,<note place="margin">
+                  <hi>Ezek.</hi> 34<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> through<g ref="char:EOLhyphen"/>out.</note> who have been as Sheep ſcattered upon the Mountains without a Shep<g ref="char:EOLhyphen"/>herd, in the cloudy, dark and diſmal Day which hath come over the World, in which men have been groping as the blind for the Wall, and have not found the reſting place, but have wandred to and fro, from Mountain to Hill, and have even wearied themſelves for very vanity,<note place="margin">
+                  <hi>Jer.</hi> 50.6.</note> and ſpent their money for that which proves to be no bread, and their labour for that which, at length doth not, nay cannot ſatisfie the truly hungry ſoul. Where<g ref="char:EOLhyphen"/>fore, oh ye People, in every deſolate Village, ariſe, ariſe and heark<g ref="char:EOLhyphen"/>en ye to the Voice and Call of the true Shepherd, who is now calling and ſeeking you; awake; awake and ariſe that he may give you Life: Hearken diligently unto him,<note place="margin">
+                  <hi>Epheſ.</hi> 5.13, 14.</note> and ye ſhall eat that which is good, and let your ſoul delight it ſelf in fatneſs. Incline your ear and come unto him, hear and your ſouls ſhall live; and he will make an everlaſting Covenant with you, even the ſure mer<g ref="char:EOLhyphen"/>cies of <hi>David. Seek ye the Lord while he may be found,</hi>
+               <note place="margin">
+                  <hi>Iſa.</hi> 55.1, 2, 3, 4, 5, 6, 7.</note> 
+               <hi>and call ye upon him while he is near; let the wicked forſake his wayes, and the un<g ref="char:EOLhyphen"/>righteous man his thoughts, and let him return unto the Lord; and he will have mercy upon him, and to our God, for he will abundantly par<g ref="char:EOLhyphen"/>don.</hi> Now Jeſus Chriſt he is the true Shepherd that layeth down
+<pb n="4" facs="tcp:43373:3" rendition="simple:additions"/>his life for the Sheep,<note place="margin">
+                  <hi>John</hi> 10.11, 27.</note> and his Sheep hear his voice, and they fol<g ref="char:EOLhyphen"/>low him, and he leads them forth, and gives unto them eternal Life, and ſatisfies their ſoules as they hear his voyce, who ſpeaks within, by his Light and Spirit in the heart and conſcience, which whoſoever hears, and obeys, and follows, ſhall be led into the green paſtures of Life, and ſhall come to know a quiet and ſure reſting place by the Rivers of living Water, where they ſhall lye down and none ſhall make them afraid, and ſhall eat and be filled, and drink and be ſatisfied. Oh therefore, ye that are hungry, and that find a want of the true Bread, and deſire to be ſatisfied, heark<g ref="char:EOLhyphen"/>en diligently to the Light and Voice of Chriſt in you, even that true Light which he hath enlightened you withal,<note place="margin">
+                  <hi>Pſ.</hi> 36.8.</note> which convin<g ref="char:EOLhyphen"/>ceth of ſin, and ſheweth the thoughts and intents of the heart, and lets you ſee your own eſtates and conditions, I ſay hearken unto it, and wait low in it, and therein will you feel and know the true power of God ariſe to work in you; by which you will feel a ſtop put unto ſin, and a ſubjecting of that evil ſpirit, which hath led you into diſobedience and tranſgreſſion againſt God your Maker, and into the ways and works which are diſpleaſing to him; becauſe of which you have been ſeparated from him, and wandring in the wayes of death and darkneſs, where your ſouls have been laden, and burdened,<note place="margin">
+                  <hi>Iſa.</hi> 59.1, 2.</note> and compaſſed about with ſorrow and trouble, being ſeparated from its true life, and having loſt the feeling of that power which preſerves our of ſin and tranſgreſſion, which you will come to feel, as your mindes are turned into that Light of the Lord Jeſus, which doth appear in you againſt all ſin and unrighte<g ref="char:EOLhyphen"/>ouſneſs; in which, as you believe, you will receive power, even the power of Chriſt, who is the true Light, that lighteth all man<g ref="char:EOLhyphen"/>kind,<note place="margin">
+                  <hi>John</hi> 1.12</note> or every man coming into the world; by which power you will feel a ſubjecting of your minds, and nature, and thoughts, bringing you into the true obedience to Chriſt; ſo you will be made willing to follow him in the denial of the world, its works, wayes, and all things that are contrary to him, which they that will be his Diſciples muſt be ſeparated from,<note place="margin">2 <hi>Cor.</hi> 10.5.</note> and muſt deny them<g ref="char:EOLhyphen"/>ſelves, as he hath ſaid, and take up the Croſs and follow him; who is not of the world, and therefore the world hates him, and thoſe that do follow him, whoſe Kingdom is not of this world, and can<g ref="char:EOLhyphen"/>not be entred into but through the denial of the world, its wayes
+<pb n="5" facs="tcp:43373:3"/>and works, as I have ſaid: and though ſuch now are hated,<note place="margin">
+                  <hi>Luke</hi> 9.23.</note> and caſt out of the fellowſhip and ſociety of the world, becauſe they cannot be partakers with it in its ſins, and unrighteous wayes, and cannot be conformable to them in their practiſes, and wayes of worſhip, which are contrary to the perſwaſion of the Spirit of God in their Conſciences, yet the Lord will and doth receive them into Fellowſhip and Communion with himſelf; who ſaith,<note place="margin">
+                  <hi>Iſa.</hi> 51 7.</note> 
+               <hi>Hearken unto me, ye that know righteouſneſs, the people in whoſe heart is my law: Fear ye not the reproaches of men, neither be ye afraid of their revilings,</hi>
+               <note place="margin">
+                  <hi>Iſa.</hi> 50.15.</note> 
+               <hi>for the Moth ſhall eat them up like a Garment, and the Worm ſhall eat them up like Wool; but my Righteouſneſs ſhall be for ever, and my Sal<g ref="char:EOLhyphen"/>vation from generation to generation.</hi> And though ſuch are reviled and caſt out becauſe they have and do deny the world, and cannot be conformable to its changable wayes, and are made a prey upon becauſe they depart from iniquity, yet the Lord will appear to their joy, and their enemies ſhall be aſhamed;<note place="margin">
+                  <hi>Chap.</hi> 66.5.</note> and he will receive ſuch as are caſt out for his Name ſake, and ſpeak comfortably to his Beloved.</p>
+            <p>And therefore all you tender-hearted people that cannot turn with the wind, in conforming to thoſe things which are contrary to the perſwaſion of that Light of God's Spirit in your Conſciences, but feel in your ſelves, breathings and longings after immortal ſubſtance, and would rather ſuffer outwardly in your perſons and eſtates, the puniſhments, forfeitures and penalties of mans Law, than tranſgreſs the righteous Law of God written in the heart, and do thoſe things to pleaſe men, which are contrary to that Light and Knowledge which God hath given you,<note place="margin">
+                  <hi>Jer.</hi> 39.33.</note> which undoubtedly would bring and be the cauſe of the wrath and judgments of God to come upon you; and ſo turn to be men-pleaſers,<note place="margin">1 <hi>Theſ.</hi> 2.4.</note> which the Apoſtle ſpake againſt, to diſpleaſe the righteous Lord, whoſe wayes are not mans wayes. I ſay, oh Friends, mind ye the Lord alone,<note place="margin">
+                  <hi>Iſa.</hi> 55.8.</note> and take heed of them that are given to change; look ye ſingly at, and put your truſt in him, and he will carry you on in boldneſs, and by his power (which, as I have ſaid, you will feel as your minds are turn<g ref="char:EOLhyphen"/>ed unto, and as you wait in that Light, which convinceth of ſin in the Conſcience) you will be ſtrengthened and enabled to bear a Teſtimony for him in this day of trial, againſt the world, and all things which ye are convinced of not to be of God; and ye will be up
+<pb n="6" facs="tcp:43373:4"/>held above all worldly fear, in the feeling of the perfect love of God, which will refreſh your ſouls in all your tryals; for truly this is a day of tryal in which the Lord is making a ſeparation tho<g ref="char:EOLhyphen"/>rowly between the pretious and the vile; between him that truly fears God,<note place="margin">1 <hi>John</hi> 4.18.</note> and him that only talks of him; yea between the profeſ<g ref="char:EOLhyphen"/>ſors and the poſſeſſors, who have found him, and cannot deny him before men, nor let him go, who is <hi>the chiefeſt of ten thouſand;</hi> but walk with him, and abide faithful in their generation, and ſuch ſhall be recorded in the Book of Life among the Righteous, whoſe memory ſhall live for ever; when thoſe that have denyed the Lord before mem, and betrayed the Juſt in themſelves, and loſe their Teſtimony to run with a multitude to do (that which once they were perſwaded was) evil, and ſo ſink under the fear, terrour, and threatnings of men, who in the height of their power and glory are but like the flower of the field; and under the temptations of the Devil, who will ſay, <hi>This thou wilt loſe, and ſuch will hate and en<g ref="char:EOLhyphen"/>vy thee, and thou wilt not be eſteemed amongſt men, but wilt loſe thy re<g ref="char:EOLhyphen"/>putation in the world, and thy worldly gain, and the love and friendſhip thereof.</hi> And thus the Devil deceives many, by preſenting theſe with many other ſuch like reaſonings in the mind, whereby ſome are overcome and ſwallowed up, and ſo deny the Lord to pleaſe men, and act contrary to what it may be they have experimentally known of him, and ſo become ſlaves and bond-men for a morſel of bread, or a thing of nought; and bow, and creep for the gain of that which will periſh, even to the wounding and piercing of their own ſouls, and to the utter loſs of their peace with God and a good Conſcience, and the Names of ſuch will ſurely rot, except they re<g ref="char:EOLhyphen"/>pent, if it be not too late; and ſuch will now be diſcovered and manifeſted in this day, who have not been right and ſound to God, but deceitful and rotten hearted, and have had a Name to Live, but are found to be Dead, as to the ſence of Life and Truth within, though they have made a fair ſhew for a time, while the Powers of the Earth have been their Prop to uphold them by an outward Law; And truly of this ſort have been the very Teachers and Prieſts themſelves: I ſpeak it not as upbraiding any, but with pitty unto ſuch who have been led by them,<note place="margin">
+                  <hi>Jer.</hi> 23.32. <hi>John</hi> 6.4, 5.</note> who, as the Lord by the Prophet ſaid, <hi>have cauſed them to erre, by their lyes and their lightneſs;</hi> againſt whom the Lords hand was turned becauſe thereof in that day; <hi>be<g ref="char:EOLhyphen"/>cauſe
+<pb n="7" facs="tcp:43373:4" rendition="simple:additions"/>they had not cauſed the People to hear his Word in their hearts.</hi> And the Lord hath promiſed to gather his People from their mouth, and to feed them, and teach them himſelf, and this is the day in which he will accompliſh it. Wherefore ceaſe ye wholly from them, and wait upon the Lord,<note place="margin">
+                  <hi>Iſa</hi> 54.13</note> that you may witneſs his Teach<g ref="char:EOLhyphen"/>ings, who will teach and lead you into all Truth by his Spirit, and you ſhall not want, but he will ſupply your wants and give you all good things, and be a God and Father unto you,<note place="margin">2 <hi>Cor.</hi> 6.16, 17.</note> and you ſhall be his People; and he will dwell in you and walk in you, according to his promiſe, if you will be obedient to his voice, who is now cal<g ref="char:EOLhyphen"/>ling out of <hi>Babylon (Confuſion)</hi> and out of the many confuſed noy<g ref="char:EOLhyphen"/>ſes in the world, and out of the ſins of <hi>Babylon,</hi> which they that are partakers of, muſt as ſurely partake of her dreadful Judgments, which God will reward her with. Oh therefore,<note place="margin">
+                  <hi>Rev.</hi> 8.4.</note> ye ſcattered peo<g ref="char:EOLhyphen"/>ple in the Borders, and by the Waters of <hi>Babylon,</hi> Come away, and ſhake your ſelves from the duſt; ariſe, and do not delay, for the ſound of a mighty Trumpet is gone forth and is heard in the Earth.<note place="margin">
+                  <hi>Rev.</hi> 22.12.</note> Prepare, prepare to meet the Lord by repentance, and by turning every one from the evil of his way, and caſt off the works of dark<g ref="char:EOLhyphen"/>neſs, for behold he cometh ſwiftly, and his reward is with him. Come out of <hi>Babylon,</hi> and be you throughly ſeparated, and touch not the unclean thing, and the Lord will receive you. And what though ye are caſt out and hated of men, if the Lord receive you and take you into his favour and protection, happy and bleſſed are you.<note place="margin">
+                  <hi>Gal.</hi> 1.18.</note> Wherefore bow down the ear and hearken to the Call of the Lord, and give up to follow him in truth and faithfulneſs, according to what he makes known in you, and reaſon not with fleſh and blood but be obedient to the heavenly Call, and the Lord will delight to do you good, and will withhold no good thing from you,<note place="margin">
+                  <hi>Pſal.</hi> 84.11.</note> as you walk in faithfulneſs and uprightneſs before him, and anſwer his re<g ref="char:EOLhyphen"/>quirings, and fulfil his will, but he will be near unto you to anſwer when you call upon him, and hear your cryes, and give you your ſouls deſire, and will be a preſent help unto you in the time of need. Oh let theſe things dwell upon your hearts, and let the Fathers love melt you,<note place="margin">
+                  <hi>Pſal</hi> 46.3.</note> and let it be a ſufficient obligation to cauſe you to walk in ſubjection to him, ſeeing he hath not wholly left you, nor given you up to your ſelves, nor left you altogether in darkneſs, but hath given you light that you ſhould walk in it, and ſo become his Chil<g ref="char:EOLhyphen"/>dren,
+<pb n="8" facs="tcp:43373:5" rendition="simple:additions"/>who kindled and raiſed good deſires after Righteouſneſs in you, and that thoſe deſires in you are not quite loſt nor quenched, but are kept alive and freſh in you, which the Lord no doubt will anſwer and ſatisfie as you diligently wait upon him, who will not <hi>quench the ſmoking Flax,</hi>
+               <note place="margin">
+                  <hi>Pſa.</hi> 145.19.</note> 
+               <hi>nor break the bruiſed Reed, till Judgement come forth into Victory;</hi> and ye will come to enjoy that which you have deſired after, and to know the work of rigteouſneſs, which is peace, and the effect of righteouſneſs, which is quietneſs and aſſurance for ever in Chriſt Jeſes the everlaſting ſubſtance; and ſo will come to ſee thorow, and be gathered out of all thoſe ſha<g ref="char:EOLhyphen"/>dows which in their time were repreſentations of him, which now comes to be aboliſhed and done away by him,<note place="margin">
+                  <hi>Iſa.</hi> 32.17, 18.</note> in all that witneſs him come in Spirit and Power within, who puts an end to ſin, and finiſheth tranſgreſſion, and brings in everlaſting righteouſneſs and peace to all thoſe that do truly believe in him.<note place="margin">
+                  <hi>Dan.</hi> 9.24</note> And now at this day People ſticking and hanging in outward things as the Jews did, they miſs the ſubſtance, and come ſhort of that which is the ſouls life, food, bread, wine, water and true nouriſhment, and indeed all; and who became the Saints all, and fulneſs that did fill all, and is now to ſuch as do believe and obey him, and follow him in all things, which he at this day doth require of them: and yet all thoſe things are truly owned in their time and place, which the Saints and People of God were to do and obſerve according to the then particular command of God, to them in every age, and be<g ref="char:EOLhyphen"/>cauſe of ſome that did uphold ſuch things which were ſometimes required, who themſelves were forward in the outward practiſe, it was ſaid, <hi>Who hath required theſe things at your hands?</hi> [mark] <hi>at your hands.</hi>
+               <note place="margin">
+                  <hi>Iſa.</hi> 1.12.</note> And ſo may it be ſaid now to many who are ſticking in outward things, <hi>But who hath required theſe things now at this day?</hi> Nevertheleſs I ſay, If any do find the Lords preſence with them in thoſe things, and do make a Conſcience of them, and judge they ought to do it, I judge them not, if they are not otherways per<g ref="char:EOLhyphen"/>ſwaded in themſelves; and if they can in truth ſay, The Spirit of the Lord leads them to do it, which I have very much doubt of, and deſire they may ſeriouſly conſider, and truly examine. Where<g ref="char:EOLhyphen"/>fore now come ye on and preſs towards the true Life and ſubſtance and look not <hi>at things that are ſeen,</hi>
+               <note place="margin">2 <hi>Cor.</hi> 13.12.</note> 
+               <hi>which are carnal,</hi> as the Apo<g ref="char:EOLhyphen"/>ſtle ſaid, <hi>but the things that rae not ſeen are eternal and inviſible;</hi>
+               <pb n="9" facs="tcp:43373:5"/>And theſe things the Apoſtle brought the Saints on to, and to the knowledge of Chriſt in them, which he told them if they did not come to know, they were yet reprobates notwithſtanding they had done many things in the outward practice; yet this was the end and ſubſtance of all, and that great myſtery which was hid from ages,<note place="margin">
+                  <hi>Col.</hi> 1.27.</note> even Chriſt within, <hi>the Hope of Glory,</hi> which myſtery now comes to be made known unto ſuch (as then) who have believed in that light which ſhineth in the heart, which gives the true knowledge of God in the face of Chriſt,<note place="margin">2 <hi>Cor.</hi> 4.6.</note> and reveals the myſteries of his King<g ref="char:EOLhyphen"/>dom, and is the true guide unto the everlaſting way in which the Righteous have alwayes walked, even the way of true peace and eternal happineſs, and in it is the knowledge of that truth received which the ſouls of many have longed for, who had long ſought but could not find, becauſe they ſought amiſs, or miſſed that in which all that ſeek and wait, come to find. So come ye now and ſeek af<g ref="char:EOLhyphen"/>ter this as for hid treaſure, even after the knowledge of that ever<g ref="char:EOLhyphen"/>laſting way and truth which your ſouls long after, which ſome are ſaying, <hi>Loe its here,</hi> others, <hi>loe its there,</hi> but, ſaith Chriſt, <hi>Go not forth;</hi> for behold, the kingdom of heaven is within:<note place="margin">
+                  <hi>Luke</hi> 17.21, 23.</note> and the truth you muſt find in you, though its appearance at firſt is but low and little, yet being owned, it grows in ſtature; and the Kingdom which is <hi>but as a grain of muſtard-ſeed, the leaſt of all,</hi> in you,<note place="margin">
+                  <hi>Mat.</hi> 13.31.32.</note> yet it will ſpring up to be <hi>the greateſt of all in you,</hi> and will overcome all that which hath been great and ſtrong in you, even every other ſeed which the Devil hath ſowed in the night of darkneſs whilſt men have ſlept in careleſneſs, as you may read in the Scriptures of truth.<note place="margin">
+                  <hi>verſ.</hi> 25.</note> Wherefore go not forth, but receive the truth as it appears in you, and walk in it as it is made manifeſt within, and through obdi<g ref="char:EOLhyphen"/>ence you will come more and more into the knowledge of it, and it will grow in you, and this knowledge is true and everlaſt<g ref="char:EOLhyphen"/>ing, and ſaving, even the knowledge of the truth in its appearance and operation in the heart of the creature; for Truth hath a great work to do in man, to change his heart, mind and nature, and to deſtroy the Devils work, which hath been within;<note place="margin">
+                  <hi>Eph.</hi> 2.2<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:punc">▪</g>
+               </note> the <hi>Devil hath wrought and ruled in the hearts of the children of diſobedience:</hi>
+               <note place="margin">I <hi>Joh.</hi> 3 8<g ref="char:punc">▪</g>
+               </note> And for this purpoſe, ſaith the Apoſtle, <hi>was the Son of God made manifeſt, that he might deſtroy the works of the Devil.</hi> And ſo as ye receive and believe in the Truth, as it appears in you, you will feel it ſubduing
+<pb n="10" facs="tcp:43373:6"/>the Devils works, and working down that which hath been exalted in you, which hath hindred you from beholding the glorious pre<g ref="char:EOLhyphen"/>ſence and countenance of the Lord, the Lifting up of which makes whole and refreſhes the ſoul, and makes the heart truly glad. Which that you may come to ſee, to the ſatisfaction and everlaſt<g ref="char:EOLhyphen"/>ing peace of your ſouls, is my end in what I have here written unto you, and that which my ſoul truly and faithfully deſires to the Lord for you. And this is a Viſitation of Love unto all you who are enquiring the way to <hi>Sion,</hi> unto which the Redeemed of the Lord our God are now returning, with Songs of Deliverance and ever<g ref="char:EOLhyphen"/>laſting Joy upon their Heads, and they ſhall obtain Joy and Glad<g ref="char:EOLhyphen"/>neſs, and Sorrow and Sighing ſhall flee away. Among the number of which that ye may be found, in this Day of the Lords Viſitation and Gathering, is the deſire and travel of my ſoul, who am a true Friend unto you, and all that are ſeeking the Kingdom of God, and deſire the everlaſting Salvation and Welfare of all your Im<g ref="char:EOLhyphen"/>mortal Souls; and am known in the world (in which I labour and travel for the Redemption of the Righteous Seed) by the Name of</p>
+            <closer>
+               <signed>Joſeph Coale.</signed>
+               <dateline>
+                  <hi>Tregangrees,</hi> in the Pariſh of <hi>Auſtel</hi> in <hi>Cornwel,</hi>
+                  <date>the 13th Day of the 1ſt. Month. 1664.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="tract">
+            <head>Concerning Reconciliation, and how it comes to be Effected in, and Witneſ<g ref="char:EOLhyphen"/>ſed by Man.</head>
+            <p>REconciliation is Effected and Witneſſed through the Operati<g ref="char:EOLhyphen"/>tion of the Eternal Word of Life in the heart, working out and deſtroying that which is the cauſe of Separation from God, which muſt be ſlain and ſubdued by the Word which is quick and powerful, ſharper than a two-edged Sword, which ſlayes the En<g ref="char:EOLhyphen"/>mity
+<pb n="11" facs="tcp:43373:6"/>which God is never reconciled to, and man being in the En<g ref="char:EOLhyphen"/>mity is ſeparated from God, living in that which is contrary unto him, which the powerful Word of Life ſubdues and works out, as it is received and felt in the heart, which is known through believing in the Light, which convinceth of ſin and tranſgreſſion.</p>
+            <p>Wherefore all that come to witneſs Reconciliation, muſt re<g ref="char:EOLhyphen"/>ceive the Light which ſhews tranſgreſſion, and wait in it, to feel the operation of the eternal Power, deſtroying the Devils works, and looſing them from his chaines and bonds, and defacing his Image and and likeneſs which he hath changed and begotten the Creature into, which conſiſteth of pride, envy, malice, hatred and deceit, <hi>&amp;c.</hi> and all unrighteouſneſs, which muſt be deſtroyed; and no further is Reconciliation witneſſed by any, than that is deſtroy<g ref="char:EOLhyphen"/>ed and ſubdued by the living operation of the living Power or Word of God, which changeth man inwardly, and quickens and renews him into God's Image, which conſiſteth of humility, love, tenderneſs, righteouſneſs, and holineſs, and all good; and ſo he comes to bear his Image and Likeneſs, and is changed into the Image and Likeneſs of God, and ſo is Reconciled unto him. And for this end did Chriſt Jeſus come, and for this purpoſe was made manifeſt, to deſtroy the works of the Devil, and to ſubdue that in man which is contrary, which is the cauſe of ſeparation, to ſlay the Enmity, to break down the wall of partition, and of twain to make one new man, ſo making Peace and Reconciliation; ending the ſin, making Reconciliation for iniquity, and ſo to bring in ever<g ref="char:EOLhyphen"/>laſting Righteouſneſs. And no man doth, or can, truly witneſs Reconciliation that yet lives in iniquity, tranſgreſſion and enmity againſt God, and in a nature contrary to him, but muſt be changed by the living operation of the Eternal Word, which will burn up and conſume the contrary, which the Light makes manifeſt in the ſecret inward parts; and through the ſpirit of judgment and of burning is he redeemed, which burns up that which cannot endure and dwell with conſuming fire, and ſo it cleanſeth, purgeth and purifieth, ſlays and buries under all fleſhly carnal love, deſires, af<g ref="char:EOLhyphen"/>fections, and all ſelf-conceits, heights, boaſtings, gloryings, ſhews, likeneſſes, images, inventions, and contrivances in the mind and wiſdom, and whatſoever is not of God muſt dye, be ſubdued, cut down and deſtroyed, which the Light makes manifeſt to be con<g ref="char:EOLhyphen"/>trary;
+<pb n="12" facs="tcp:43373:7"/>for he that lives and acts in and from that, it ſeparates him, and keeps him out, and off, at a diſtance from God; and he muſt depart from that, and muſt die unto it that witneſſeth Reconciliati<g ref="char:EOLhyphen"/>on, which is effected by the operation of the eternal power working in man, faſhioning, framing and moulding of himin to Gods likeneſs and ſlaying of him to the world, and all that is contrary to God, to which he cannot be reconciled, nor to man, as he lives, and ſtill re<g ref="char:EOLhyphen"/>mains in that, and while as he walks in the ways that grieve his ho-Spirit, And this is a true and certain Teſtimony unto all People.</p>
+            <closer>
+               <signed>Joſeph Coale.</signed>
+            </closer>
+            <trailer>THE END</trailer>
+            <pb facs="tcp:43373:7"/>
+         </div>
+      </body>
+   </text>
+</TEI>
